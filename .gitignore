@@ -1,0 +1,14 @@
+# Data files
+/data/*.csv
+/data/*.parquet
+/data/*.json
+
+# Python
+__pycache__
+*.pyc
+.env
+
+# Build / packaging
+dist/
+build/
+*.egg-info
